@@ -1,0 +1,7 @@
+The Website load time saved here:
+https://www.youtube.com/ -> 0 minutes 5 second 10 milliseconds
+https://facebook.com -> 0 minutes 3 second 11 milliseconds
+https://web.whatsapp.com/ -> 0 minutes 4 second 59 milliseconds 
+https://instagram.com -> 0 minutes 4 second 8 milliseconds 
+https://www.spotify.com/in-en/ -> 0 minutes 5 second 14 milliseconds 
+https://google.com -> 0 minutes 2 second 56 milliseconds 
